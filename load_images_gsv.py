@@ -21,7 +21,7 @@ def getAddr(addr, dir):
         'location': addr,
         # 'heading': '0', #151.78
         'pitch': '30',
-        'key': 'AIzaSyA7XrmqX_dRF3N6aVYyFgbc2BDTpwXSASg',
+        'key': '',  # google api key
         'return_error_code': True,
         'radius': 5  # meters
     }
